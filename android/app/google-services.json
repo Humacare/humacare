@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "791848024762",
+    "project_id": "humacare-bfcbb",
+    "storage_bucket": "humacare-bfcbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791848024762:android:831ed799eef1ca78b02083",
+        "android_client_info": {
+          "package_name": "com.example.memoire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791848024762-8b731obd35jnoe6ub75gb1sg9c2oesoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-ol5cXdTbrZU6roeGZ1nMgLiL0xMjeqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791848024762-8b731obd35jnoe6ub75gb1sg9c2oesoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
